@@ -1,5 +1,5 @@
 
-# Employee Attration 
+# Employee Attrition 
 
 
 ## Introduction
